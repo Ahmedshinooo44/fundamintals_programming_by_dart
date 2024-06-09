@@ -1,1 +1,1 @@
-int x = 1;
+String hello = "ahmed";
