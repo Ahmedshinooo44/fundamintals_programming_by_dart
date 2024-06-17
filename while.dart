@@ -1,0 +1,9 @@
+void main (){
+var i = 0 ;
+while ( i < 100 ){
+
+
+i++;
+print(i);
+}
+}
