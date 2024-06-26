@@ -1,4 +1,5 @@
 void main() {
+  string ASHRAF = "coding"
   var num1 = 20;
 
   var num2 = 10;
