@@ -1,10 +1,7 @@
-void main (){
-
-printMyName("shino");
-
+void main() {
+  printMyName("shino");
 }
 
-
-void printMyName (String name ){
-print ("Hallo $name");
+void printMyName(String name) {
+  print("Hallo $name");
 }
